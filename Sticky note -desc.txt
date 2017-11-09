@@ -1,0 +1,22 @@
+Note Title: Quick Start Note:
+Welcome to 7 Sticky Notes!!
+I hope you enjoy using this software! 7 Sticky Notes is a great app built to help everyone out there. I have much fun building it and truly hope you have fun using it too. If you have any questions, requests or suggestions, please e-mail me at: contact@7stickynotes.com or visit www.7stickynotes.com .
+
+Also, if you need any help using this program, please check the online help at www.7stickynotes.com/help any time. But anyways !.. here goes a quick start help:
+
+ Q: How can I edit/modify the note? A: Simply middle or double click it!!
+ Q: How can I move a note? A: Just click and grab anywere on the note.
+ Q: How can I size the notes? A: Click-and-grab on any edge and check it out!
+ Q: How can delete a note? A: By simply clicking the "x" icon, showed when hovering the title of the note!
+ Q: How can I show/hide the notes? A: One click at the tray icon to show all notes, and another to hides all notes, as simple as that!
+ Q: Are there any keyboard shortcuts? A: Yes!! The Default SHORTCUT Keys are:
+         1. Win + Z to create a new note
+         2. Win + X to toggle all notes visible/not visible
+         3. Win + C to show the "Notes Desktop"
+         4. Win + V (or Win + SHIFT + V) to show the exclusive "7 Sticky Notes Desktop Switcher"..!
+         5. WIN + N for a quick shortcut to open the handy 7 Sticky Notes "Notes Manager" !!
+ 
+Finally, right clicking the icon placed in the tray area show the program menu with all functions. That's it!
+
+Thank you so much for downloading!
+Fabio Martin - 7 Sticky Notes Developer
